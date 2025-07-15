@@ -1,4 +1,4 @@
-# UIST-2025 Talking to Everything  
+# UIST-2025 Talking Spell  
 ## 一个可以通过相机和任何物品对话的项目  
 ## 目录
 `pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu121`
